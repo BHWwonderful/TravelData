@@ -152,6 +152,7 @@
  },
  {
   "category":"alone",
+  "duration":"2",
   "Title": "제주도 여행",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=36af69f9-0345-4328-9091-911333d45817",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=60b822c2-de02-431a-acd2-74109aa6d99c",
@@ -169,6 +170,7 @@
  },
  {
   "category":"alone",
+  "duration":"1",
   "Title": "서울사람투어",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=74860229-c37b-494d-9eb7-7df8615da586",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=c01c961f-5f2e-49c4-89a0-31171a3c6b22",
@@ -185,6 +187,7 @@
  },
  {
   "category":"alone",
+  "duration":"1",
   "Title": "2022여름휴가",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=5043dacd-1f41-476c-8e67-c8825386dbbe",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=030bf4ee-49e2-45f3-a457-a6c87159333d",
@@ -202,6 +205,7 @@
  },
  {
   "category":"alone",
+  "duration":"3",
   "Title": "포항~여수여행 1일차",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=9be11f4d-ea0a-42ba-a272-a62a2ec11e6e",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=654f2a31-5e3a-4a97-8b3c-e1da54ef3c4d",
@@ -217,6 +221,7 @@
  },
  {
   "category":"alone",
+  "duration":"1",
   "Title": "포항~여수여행 2일차",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=11744cef-2e75-4ce2-ae16-76556ad77a96",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=08a97713-7693-47ec-8e2b-6be933027326",
@@ -232,6 +237,7 @@
  },
  {
   "category":"alone",
+  "duration":"2",
   "Title": "남해여행",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=43e3477e-1055-4f9c-8af4-f1ba899e5a05",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=6c0b1908-db4d-4b91-b1a2-74d94c037bfa",
@@ -249,6 +255,7 @@
  },
  {
   "category":"alone",
+  "duration":"2",
   "Title": "양양여행",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=3c47c743-3939-45c8-9d70-5b82c5b57e6b",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=862d01cb-2072-4226-ac20-e63d8599b698",
@@ -266,6 +273,7 @@
  },
  {
   "category":"walk",
+  "duration":"1",
   "Title": "울릉도 관광 코스(A)",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=cd7919e5-5347-4337-a4ed-e8813ec563c2",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=b9145ecf-16ce-4b10-a0c3-3421dd732206",
@@ -283,6 +291,7 @@
  },
  {
   "category":"walk",
+  "duration":"1",
   "Title": "화천(강원도)",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=5439e99c-bd36-411e-bde4-d894e487bf5f",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=0d06e70d-cd9c-4366-bde5-970577b6310d",
@@ -297,6 +306,7 @@
  },
  {
   "category":"walk",
+  "duration":"1",
   "Title": "애국심 고취 코스",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=9a1a2666-bea2-4b29-814e-f93d923bd705",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=c44a55e9-9de0-41c1-8298-a685857138b9",
@@ -312,6 +322,7 @@
  },
  {
   "category":"walk",
+  "duration":"1",
   "Title": "청와대",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=72db3394-a2e7-4dac-9d48-00544e1d1e4d",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=c0af1119-3578-4e7c-b58e-eb493f4ede3a",
@@ -329,6 +340,7 @@
  },
  {
   "category":"walk",
+  "duration":"2",
   "Title": "서산봄꽃여행",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=6403dac2-28e4-4208-bdb8-2dbca803f99c",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=f62dc841-f2b0-4959-a918-a7857105f791",
@@ -344,6 +356,7 @@
  },
  {
   "category":"walk",
+  "duration":"3",
   "Title": "세종에서 태안군",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=cfc103db-2ea4-4d9b-bed0-a1268f540e53",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=c58b1e45-51c3-4c5e-b4ea-50619d4685bb",
@@ -360,6 +373,7 @@
  },
  {
   "category":"walk",
+  "duration":"1",
   "Title": "나만의코스",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=2f39945b-45e7-4a2a-b1eb-01362ca557d1",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=c0af1119-3578-4e7c-b58e-eb493f4ede3a",
@@ -375,6 +389,7 @@
  },
  {
   "category":"walk",
+  "duration":"3",
   "Title": "제주",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=cd22c9d8-0aca-49ca-8052-9947ba85c52f",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a69b019a-9032-48f9-a737-2b2e1e321226",
@@ -392,6 +407,7 @@
  },
  {
   "category":"healing",
+  "duration":"3",
   "Title": "세종에서 태안군",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=cfc103db-2ea4-4d9b-bed0-a1268f540e53",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=c58b1e45-51c3-4c5e-b4ea-50619d4685bb",
@@ -408,6 +424,7 @@
  },
  {
   "category":"healing",
+  "duration":"1",
   "Title": "낭만이 넘치는 여수 밤바다 코스",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=1323177b-ab29-4dc9-b173-c8d042eaafe3",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=030bf4ee-49e2-45f3-a457-a6c87159333d",
@@ -422,6 +439,7 @@
  },
  {
   "category":"healing",
+  "duration":"2",
   "Title": "강원도",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=649074c4-6cd7-4219-9cae-b19402513d9b",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=96306636-061e-460d-a8f8-edcc6c3190d2",
@@ -436,6 +454,7 @@
  },
  {
   "category":"healing",
+  "duration":"2",
   "Title": "속초여행",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=3dcf368b-a28a-4db1-b874-044d48b150a6",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=3ac06cf7-741e-4b72-ad81-81a4676444f7",
@@ -453,6 +472,7 @@
  },
  {
   "category":"healing",
+  "duration":"2",
   "Title": "안면도 여행",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=9b8c7e6d-42d2-4306-b910-1751ac2bbc22",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=83804651-01e0-4809-bde0-13bb26a33618",
@@ -470,6 +490,7 @@
  },
  {
   "category":"healing",
+  "duration":"1",
   "Title": "경주 일주",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=2f77161d-2f0c-4276-b294-a40ee75e0f52",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=210247d3-4468-4f92-8ec5-1e8ff5a86151",
@@ -487,6 +508,7 @@
  },
  {
   "category":"food",
+  "duration":"2",
   "Title": "WOWKOREA 3차",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=a19f07e1-2d3a-4800-9f4e-153b6eb07766",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=61a042b2-7731-4459-9748-a32e954961d6",
@@ -502,6 +524,7 @@
  },
  {
   "category":"food",
+  "duration":"3",
   "Title": "지리산 자락 추억 여행",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=f3919bf4-e1db-4c76-987c-9de4a36b4064",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=aea4c76f-5a3c-4fff-a8cb-1ea9d6c49292",
@@ -517,6 +540,7 @@
  },
  {
   "category":"food",
+  "duration":"3",
   "Title": "감자국 여행기",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=998cfc65-bbf8-4447-b0c1-58e0dd7e6fc6",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=0e8aeb4b-06e4-436c-891b-1d5a5f51ccb7",
@@ -534,6 +558,7 @@
  },
  {
   "category":"food",
+  "duration":"1",
   "Title": "봄경주가족여행",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=dadcc0ea-5323-457f-9f25-58759fb8c4b7",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=184ccb6b-a821-4828-a9d4-ab408d2fa3ac",
@@ -548,6 +573,7 @@
  },
  {
   "category":"food",
+  "duration":"2",
   "Title": "보령서천",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=b2a35ca1-c14a-451f-bc43-ede7874614cd",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a6eb07eb-c53c-4bec-b7c4-fa346d01681f",
@@ -565,6 +591,7 @@
  },
  {
   "category":"camping",
+  "duration":"1",
   "Title": "남원 당일치기",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=177e62cd-dbb7-4c1d-9e88-4f789a8088a4",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=2d53640a-965d-44df-a7cb-0a2e08e7ed24",
@@ -581,6 +608,7 @@
  },
  {
   "category":"camping",
+  "duration":"1",
   "Title": "내가족 통영여행",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=794a550a-862a-4c5f-8ce7-4afaf848bc37",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=ea159ced-2657-42cf-a8f8-04b0fd191bf3",
@@ -596,6 +624,7 @@
  },
  {
   "category":"camping",
+  "duration":"1",
   "Title": "속초여행",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=d0bd6e38-545c-4e95-a16c-b2019da0bd23",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=f0b4aa57-2335-4bd2-851a-8cf44eea27e5",
@@ -612,6 +641,7 @@
  },
  {
   "category":"camping",
+  "duration":"1",
   "Title": "봄경주가족여행",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=1794ec3c-aacc-4b4b-96d6-59c84a0fc876",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=184ccb6b-a821-4828-a9d4-ab408d2fa3ac",
@@ -627,6 +657,7 @@
  },
  {
   "category":"camping",
+  "duration":"1",
   "Title": "남원 당일치기",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=177e62cd-dbb7-4c1d-9e88-4f789a8088a4",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=2d53640a-965d-44df-a7cb-0a2e08e7ed24",
@@ -643,6 +674,7 @@
  },
  {
   "category":"camping",
+  "duration":"1",
   "Title": "내가족 통영여행",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=794a550a-862a-4c5f-8ce7-4afaf848bc37",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=ea159ced-2657-42cf-a8f8-04b0fd191bf3",
@@ -658,6 +690,7 @@
  },
  {
   "category":"camping",
+  "duration":"2",
   "Title": "강원도1박2일",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=22590826-f3ae-4c3d-a68b-1aadda5c7a4b",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=a1528259-d326-451c-a54e-2007fb9ed9f4",
@@ -671,6 +704,7 @@
  },
  {
   "category":"camping",
+  "duration":"1",
   "Title": "정선 태백 ★",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=ccc204d4-4165-4240-8909-b52ccd8177b9",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=af9a7550-2ca0-4f33-b585-9be90beb572b",
@@ -685,6 +719,7 @@
  },
  {
   "category":"camping",
+  "duration":"1",
   "Title": "서울에서 즐기는 조선 왕조의 4대 궁궐",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=e0380819-0597-4b30-af32-3018b173a1de",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=f74bd59e-6b7c-403a-a0af-a0d3e02aeba9",
@@ -699,6 +734,7 @@
  },
  {
   "category":"pet",
+  "duration":"2",
   "Title": "제주시 여행코스",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=81431ab8-0337-4dd7-8103-289b3dc8aad3",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=27117282-0d56-4114-89b4-68ec4ca2f31d",
@@ -716,6 +752,7 @@
  },
  {
   "category":"pet",
+  "duration":"1",
   "Title": "서귀포 여행코스",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=01c506d7-a0ae-4166-84f2-7f276bb0a3a0",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=1c0f8d73-fca1-4fc7-b1b5-d57abcde032b",
