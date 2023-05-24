@@ -1,6 +1,7 @@
 [
  {
   "category":"family",
+  "duration":"2",
   "Title": "부산 여행",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=55b7d2ff-c287-41ec-bd51-c5ac6e0cf852",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=c07403bc-2f2a-4247-92e8-f402ac3c6a7e",
@@ -17,6 +18,7 @@
  },
  {
   "category":"family",
+  "duration":"1",
   "Title": "대전 여행",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=ac1b0611-8635-498d-9a07-9fbf95771b88",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=ce6563eb-396a-4a6a-953a-d80ea30c8597",
@@ -32,6 +34,7 @@
  },
  {
   "category":"family",
+  "duration":"3",
   "Title": "강원여행 3/24",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=6235a2bb-4f5c-43ab-a709-1f237dd3d533",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=c79cf32c-576e-43df-88ef-3ea6b0192663",
@@ -49,6 +52,7 @@
  },
  {
   "category":"family",
+  "duration":"1",
   "Title": "충주 역사탐방",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=c7936d96-6d63-4e8f-9bf4-f1f4e091722e",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=c9689e7a-5ab0-4556-baef-3e1f266e2702",
@@ -66,6 +70,7 @@
  },
  {
   "category":"family",
+  "duration":"1",
   "Title": "경주3일차",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=182e7e49-d79b-40d7-bc76-eba1713081f6",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d614a2a2-75ca-41c0-9355-16e00f7fa89b",
@@ -80,6 +85,7 @@
  },
  {
   "category":"family",
+  "duration":"1",
   "Title": "경주2일차",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=8e09a968-1089-4b7b-9fa2-0b673c1b3ac6",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d614a2a2-75ca-41c0-9355-16e00f7fa89b",
@@ -95,6 +101,7 @@
  },
  {
   "category":"family",
+  "duration":"1",
   "Title": "경주 1일차",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=630ddd35-1621-4894-8e4d-628829faa98d",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=d614a2a2-75ca-41c0-9355-16e00f7fa89b",
@@ -109,6 +116,7 @@
  },
  {
   "category":"family",
+  "duration":"3",
   "Title": "맛 멋 재미 제주여행",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=c9c0c346-4b33-4c92-8570-150e9943c5f9",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=52df98ba-a2e7-4bca-99fd-a64123b6bc58",
@@ -126,6 +134,7 @@
  },
  {
   "category":"family",
+  "duration":"2",
   "Title": "포항여행",
   "Title_link": "https://korean.visitkorea.or.kr/detail/cs_detail_user.do?crsid=479bee7e-0204-466a-851e-deea4e05e40c",
   "Thumbnail": "https://cdn.visitkorea.or.kr/img/call?cmd=VIEW&id=ed0355a6-f4ed-420f-bec9-85aba614d06c",
